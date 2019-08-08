@@ -1,12 +1,12 @@
 
 # Matching Networks Tensorflow V2 Implementation
 
-##Introduction
+## Introduction
 This repository contains an implementation of [Matching Networks](https://arxiv.org/abs/1606.04080) in Tensorflow 2 (currently in BETA).
 It is specifically designed for few-shot learning of 1D data sets (e.g. flattend MNIST).
 However, I've added various tools for users so that they can make minor customizations (e.g. 2D/3D Convolution).
 
-##Usage
+## Usage
 ```bash
 python main.py --train/test --seed=X --C=Y --K=Z
 ```
@@ -29,7 +29,7 @@ In the config.py file, you should change ```project_path```, ```result_path```, 
 ### License
 [Apache License 2.0](https://github.com/OpenXAIProject/tutorials/blob/master/LICENSE "Apache")
 
-###Contact
+### Contact
 Yoon, Jee Seok  
 [wltjr1007@korea.ac.kr](emailto:wltjr1007@korea.ac.kr)  
 Graduate Student,  
