@@ -12,6 +12,8 @@ python main.py --train/test --seed=X --C=Y --K=Z
 ```
 
 In the config.py file, you should change ```project_path```, ```result_path```, ```data_path``` to fit your needs.
+
+Or you may look into ```MNforADNI.ipynb``` or [Colab](https://colab.research.google.com/github/OpenXAIProject/One-Shot-Learning/blob/master/MNforADNI.ipynb) for a demo.
  
 # XAI Project 
 
